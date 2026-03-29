@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Output files
+*.epub
+*.pdf
+*.progress.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
