@@ -1,6 +1,9 @@
 # Python virtual environment
 .venv/
 
+# direnv cache
+.direnv/
+
 # Output files
 *.epub
 *.pdf
